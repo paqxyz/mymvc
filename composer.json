@@ -1,0 +1,14 @@
+{
+	"name": "paq/mymvc",
+	"repositores": [
+		{
+			"type":"git",
+			"url":"svn://xxxx"
+		}
+	],
+	"require":
+	{
+		"monolog/monolog" : "1.2.*"
+	}
+
+}
